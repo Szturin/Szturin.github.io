@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://szturin.github.io/2023/10/21/wo-de-di-yi-pian-bo-ke/</loc>
-    
-    <lastmod>2023-10-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://szturin.github.io/notebook/index-1.html</loc>
     
     <lastmod>2023-10-26</lastmod>
@@ -100,20 +91,6 @@
   </url>
 
   
-  <url>
-    <loc>https://szturin.github.io/tags/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8EVHDL%E8%AE%BE%E8%AE%A1/</loc>
-    <lastmod>2023-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
