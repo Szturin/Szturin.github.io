@@ -6,7 +6,7 @@
   <link href="https://szturin.github.io/atom.xml" rel="self"/>
   
   <link href="https://szturin.github.io/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2023-10-26T09:16:41.640Z</updated>
   <id>https://szturin.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://szturin.github.io/2023/10/21/wo-de-di-yi-pian-bo-ke/"/>
+    <id>https://szturin.github.io/2023/10/21/wo-de-di-yi-pian-bo-ke/</id>
+    <published>2023-10-21T04:42:33.000Z</published>
+    <updated>2023-10-26T09:16:41.640Z</updated>
+    
+    
+    
+    
+    <category term="学习笔记" scheme="https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数字电路与VHDL设计" scheme="https://szturin.github.io/tags/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8EVHDL%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
