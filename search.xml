@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2023/10/21/wo-de-di-yi-pian-bo-ke/"/>
+      <url>/2023/10/21/wo-de-di-yi-pian-bo-ke/</url>
+      
+        <content type="html"><![CDATA[<h2 id="声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。"><a href="#声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。" class="headerlink" title="声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。"></a>声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。</h2><h3 id="将在后续时间内持续优化网站设计以及更新干货"><a href="#将在后续时间内持续优化网站设计以及更新干货" class="headerlink" title="将在后续时间内持续优化网站设计以及更新干货~"></a>将在后续时间内持续优化网站设计以及更新干货~</h3><h4 id="记录，markdown错误写法-，-后面要加空格（-同理）"><a href="#记录，markdown错误写法-，-后面要加空格（-同理）" class="headerlink" title="记录，markdown错误写法 ，-后面要加空格（#同理）"></a>记录，markdown错误写法 ，-后面要加空格（#同理）</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ tags: </span><br><span class="line">-数字电路与VHDL设计<span class="string">"</span></span><br></pre></td></tr></tbody></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数字电路与VHDL设计 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/10/20/hello-world/"/>
       <url>/2023/10/20/hello-world/</url>

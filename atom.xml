@@ -6,7 +6,7 @@
   <link href="https://szturin.github.io/atom.xml" rel="self"/>
   
   <link href="https://szturin.github.io/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2023-10-26T10:02:29.686Z</updated>
   <id>https://szturin.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://szturin.github.io/2023/10/21/wo-de-di-yi-pian-bo-ke/"/>
+    <id>https://szturin.github.io/2023/10/21/wo-de-di-yi-pian-bo-ke/</id>
+    <published>2023-10-21T04:42:33.000Z</published>
+    <updated>2023-10-26T10:02:29.686Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。"><a href="#声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。" class="headerlink" title="声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。"></a>声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。</h2><h3 id="将在后续时间内持续优化网站设计以及更新干货"><a href="#将在后续时间内持续优化网站设计以及更新干货" class="headerlink" title="将在后续时间内持续优化网站设计以及更新干货~"></a>将在后续时间内持续优化网站设计以及更新干货~</h3><h4 id="记录，markdown错误写法-，-后面要加空格（-同理）"><a href="#记录，markdown错误写法-，-后面要加空格（-同理）" class="headerlink" title="记录，markdown错误写法 ，-后面要加空格（#同理）"></a>记录，markdown错误写法 ，-后面要加空格（#同理）</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ tags: </span><br><span class="line">-数字电路与VHDL设计<span class="string">"</span></span><br></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。&quot;&gt;&lt;a href=&quot;#声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。&quot; class=&quot;headerlink&quot; title=&quot;声明：本站主要作为个人开发学习，也欢迎各位分享知识和</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数字电路与VHDL设计" scheme="https://szturin.github.io/tags/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8EVHDL%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
