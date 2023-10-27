@@ -1,5 +1,5 @@
-https://szturin.github.io/2023/10/21/markdown-ru-men/
-https://szturin.github.io/2023/10/21/wo-de-di-yi-pian-bo-ke/
+https://szturin.github.io/posts/12680/
+https://szturin.github.io/posts/63785/
 https://szturin.github.io/notebook/index.html
 https://szturin.github.io/notebook/index-1.html
 https://szturin.github.io/links/index.html
@@ -9,7 +9,7 @@ https://szturin.github.io/404/index.html
 https://szturin.github.io/friends/index.html
 https://szturin.github.io/contact/index.html
 https://szturin.github.io/about/index.html
-https://szturin.github.io/2023/10/20/hello-world/
+https://szturin.github.io/posts/16107/
 https://szturin.github.io/
 https://szturin.github.io/tags/Markdown/
 https://szturin.github.io/tags/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8EVHDL%E8%AE%BE%E8%AE%A1/
