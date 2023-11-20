@@ -23,6 +23,19 @@
     
     
     <entry>
+      <title>ROS2小车开发常用指令</title>
+      <link href="/posts/54788/"/>
+      <url>/posts/54788/</url>
+      
+        <content type="html"><![CDATA[<p>###编译<br>每次对originbot的功能包参数进行修改后都要进行编译操作，命令如下<br><code>cd /userdata/dev_ws/ </code><br><code>colcon build</code></p><p>###小车ssh远程连接<br><code>ssh root@192.168.238.81</code><br>在多类终端均可使用该命令</p><p>###建立DSS连接<br><code>export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp</code><br><code>CYCLONEDDS_URI='&lt;CycloneDDS&gt;&lt;Domain&gt;&lt;General&gt;&lt;NetworkInterfaceAddress&gt;ens33&lt;/NetworkInterfaceAddress&gt;&lt;/General&gt;&lt;/Domain&gt;&lt;/CycloneDDS&gt;'</code></p><p>###查看网络配置<br><code>ifconfig</code><br><code>sudo apt install net-tools </code><br>才能使用ifcongfig命令</p><p>###关机<br><code>halt</code></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博客</title>
       <link href="/posts/63785/"/>
       <url>/posts/63785/</url>

@@ -6,7 +6,7 @@
   <link href="https://szturin.github.io/atom.xml" rel="self"/>
   
   <link href="https://szturin.github.io/"/>
-  <updated>2023-10-27T14:10:56.455Z</updated>
+  <updated>2023-10-27T14:44:49.594Z</updated>
   <id>https://szturin.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://szturin.github.io/posts/12680/"/>
     <id>https://szturin.github.io/posts/12680/</id>
     <published>2023-10-21T04:42:33.000Z</published>
-    <updated>2023-10-27T14:10:56.455Z</updated>
+    <updated>2023-10-27T14:44:49.594Z</updated>
     
     <content type="html"><![CDATA[<h1 id="以下为效果展示"><a href="#以下为效果展示" class="headerlink" title="以下为效果展示"></a>以下为效果展示</h1><h2 id="H2"><a href="#H2" class="headerlink" title="H2"></a>H2</h2><h3 id="H3"><a href="#H3" class="headerlink" title="H3"></a>H3</h3><p><strong>bold text</strong><br><em>italicized text</em></p><ol><li>First item</li><li>Second item</li><li>Third item、</li></ol><ul><li>First item</li><li>Second item</li><li>Third item<br><code>code</code></li></ul><p><img src="/image.jpg" alt="alt text"></p><p><a href="https://markdown.com.cn/basic-syntax/">Markdown教程官网</a></p><table><thead><tr><th>Syntax</th><th>Description</th></tr></thead><tbody><tr><td>Header</td><td>Title</td></tr><tr><td>Paragraph</td><td>Text</td></tr></tbody></table><blockquote><p>blockquote</p></blockquote><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">{ </span><br><span class="line">  "firstName": "John",</span><br><span class="line">  "lastName": "Smith",</span><br><span class="line">  "age": 25</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><p>Here’s a sentence with a footnote. [^1]</p><p>[^1]: This is the footnote.</p><h3 id="My-Great-Heading-1"><a href="#My-Great-Heading-1" class="headerlink" title="My Great Heading {1}"></a>My Great Heading {1}</h3><p><del>The world is flat.</del></p><ul><li><input checked="" disabled="" type="checkbox"> Write the press release</li><li><input disabled="" type="checkbox"> Update the website</li><li><input disabled="" type="checkbox"> Contact the media</li></ul>]]></content>
     
@@ -39,11 +39,32 @@
   </entry>
   
   <entry>
+    <title>ROS2小车开发常用指令</title>
+    <link href="https://szturin.github.io/posts/54788/"/>
+    <id>https://szturin.github.io/posts/54788/</id>
+    <published>2023-10-21T04:42:33.000Z</published>
+    <updated>2023-11-20T16:45:20.004Z</updated>
+    
+    <content type="html"><![CDATA[<p>###编译<br>每次对originbot的功能包参数进行修改后都要进行编译操作，命令如下<br><code>cd /userdata/dev_ws/ </code><br><code>colcon build</code></p><p>###小车ssh远程连接<br><code>ssh root@192.168.238.81</code><br>在多类终端均可使用该命令</p><p>###建立DSS连接<br><code>export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp</code><br><code>CYCLONEDDS_URI='&lt;CycloneDDS&gt;&lt;Domain&gt;&lt;General&gt;&lt;NetworkInterfaceAddress&gt;ens33&lt;/NetworkInterfaceAddress&gt;&lt;/General&gt;&lt;/Domain&gt;&lt;/CycloneDDS&gt;'</code></p><p>###查看网络配置<br><code>ifconfig</code><br><code>sudo apt install net-tools </code><br>才能使用ifcongfig命令</p><p>###关机<br><code>halt</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;###编译&lt;br&gt;每次对originbot的功能包参数进行修改后都要进行编译操作，命令如下&lt;br&gt;&lt;code&gt;cd /userdata/dev_ws/ &lt;/code&gt;&lt;br&gt;&lt;code&gt;colcon build&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;###小车ssh远程连接&lt;br&gt;&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇博客</title>
     <link href="https://szturin.github.io/posts/63785/"/>
     <id>https://szturin.github.io/posts/63785/</id>
     <published>2023-10-21T04:42:33.000Z</published>
-    <updated>2023-10-26T10:02:29.686Z</updated>
+    <updated>2023-10-27T14:44:49.596Z</updated>
     
     <content type="html"><![CDATA[<h2 id="声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。"><a href="#声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。" class="headerlink" title="声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。"></a>声明：本站主要作为个人开发学习，也欢迎各位分享知识和交流技术经验。</h2><h3 id="将在后续时间内持续优化网站设计以及更新干货"><a href="#将在后续时间内持续优化网站设计以及更新干货" class="headerlink" title="将在后续时间内持续优化网站设计以及更新干货~"></a>将在后续时间内持续优化网站设计以及更新干货~</h3><h4 id="记录，markdown错误写法-，-后面要加空格（-同理）"><a href="#记录，markdown错误写法-，-后面要加空格（-同理）" class="headerlink" title="记录，markdown错误写法 ，-后面要加空格（#同理）"></a>记录，markdown错误写法 ，-后面要加空格（#同理）</h4><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ tags: </span><br><span class="line">-数字电路与VHDL设计<span class="string">"</span></span><br></pre></td></tr></tbody></table></figure>]]></content>
     
@@ -67,7 +88,7 @@
     <link href="https://szturin.github.io/posts/16107/"/>
     <id>https://szturin.github.io/posts/16107/</id>
     <published>2023-10-19T17:35:55.100Z</published>
-    <updated>1985-10-26T08:15:00.000Z</updated>
+    <updated>2023-10-27T14:44:49.591Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
