@@ -1,3 +1,4 @@
+https://szturin.github.io/friends/index.html
 https://szturin.github.io/tags/index.html
 https://szturin.github.io/notebook/index.html
 https://szturin.github.io/about/index.html
@@ -8,7 +9,6 @@ https://szturin.github.io/posts/63785/
 https://szturin.github.io/posts/12680/
 https://szturin.github.io/posts/16107/
 https://szturin.github.io/404/index.html
-https://szturin.github.io/friends/index.html
 https://szturin.github.io/contact/index.html
 https://szturin.github.io/
 https://szturin.github.io/tags/Markdown/
