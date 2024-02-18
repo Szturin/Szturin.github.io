@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://szturin.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://szturin.github.io/posts/54789/</loc>
     
     <lastmod>2023-11-20</lastmod>
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://szturin.github.io/tags/index.html</loc>
     
     <lastmod>2023-10-21</lastmod>
@@ -121,7 +121,7 @@
 
   <url>
     <loc>https://szturin.github.io/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2024-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,14 +129,14 @@
   
   <url>
     <loc>https://szturin.github.io/tags/Markdown/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2024-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://szturin.github.io/tags/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8EVHDL%E8%AE%BE%E8%AE%A1/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2024-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -145,7 +145,7 @@
   
   <url>
     <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2024-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
