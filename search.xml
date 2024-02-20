@@ -42,19 +42,6 @@
     
     
     <entry>
-      <title>ROS2小车开发常用指令</title>
-      <link href="/posts/54789/"/>
-      <url>/posts/54789/</url>
-      
-        <content type="html"><![CDATA[<h3 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h3><p>每次对originbot的功能包参数进行修改后都要进行编译操作，命令如下<br><code>cd /userdata/dev_ws/ </code><br><code>colcon build</code></p><h3 id="小车ssh远程连接"><a href="#小车ssh远程连接" class="headerlink" title="小车ssh远程连接"></a>小车ssh远程连接</h3><p><code>ssh root@192.168.238.81</code><br>在多类终端均可使用该命令</p><h3 id="建立DSS连接"><a href="#建立DSS连接" class="headerlink" title="建立DSS连接"></a>建立DSS连接</h3><p><code>export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp</code><br><code>CYCLONEDDS_URI='&lt;CycloneDDS&gt;&lt;Domain&gt;&lt;General&gt;&lt;NetworkInterfaceAddress&gt;ens33&lt;/NetworkInterfaceAddress&gt;&lt;/General&gt;&lt;/Domain&gt;&lt;/CycloneDDS&gt;'</code></p><h3 id="查看网络配置"><a href="#查看网络配置" class="headerlink" title="查看网络配置"></a>查看网络配置</h3><p><code>ifconfig</code><br><code>sudo apt install net-tools </code><br>才能使用ifcongfig命令</p><h3 id="关机"><a href="#关机" class="headerlink" title="关机"></a>关机</h3><p><code>halt</code></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Markdown入门</title>
       <link href="/posts/12680/"/>
       <url>/posts/12680/</url>
@@ -68,6 +55,19 @@
             <tag> Markdown </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ROS2小车开发常用指令</title>
+      <link href="/posts/54789/"/>
+      <url>/posts/54789/</url>
+      
+        <content type="html"><![CDATA[<h3 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h3><p>每次对originbot的功能包参数进行修改后都要进行编译操作，命令如下<br><code>cd /userdata/dev_ws/ </code><br><code>colcon build</code></p><h3 id="小车ssh远程连接"><a href="#小车ssh远程连接" class="headerlink" title="小车ssh远程连接"></a>小车ssh远程连接</h3><p><code>ssh root@192.168.238.81</code><br>在多类终端均可使用该命令</p><h3 id="建立DSS连接"><a href="#建立DSS连接" class="headerlink" title="建立DSS连接"></a>建立DSS连接</h3><p><code>export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp</code><br><code>CYCLONEDDS_URI='&lt;CycloneDDS&gt;&lt;Domain&gt;&lt;General&gt;&lt;NetworkInterfaceAddress&gt;ens33&lt;/NetworkInterfaceAddress&gt;&lt;/General&gt;&lt;/Domain&gt;&lt;/CycloneDDS&gt;'</code></p><h3 id="查看网络配置"><a href="#查看网络配置" class="headerlink" title="查看网络配置"></a>查看网络配置</h3><p><code>ifconfig</code><br><code>sudo apt install net-tools </code><br>才能使用ifcongfig命令</p><h3 id="关机"><a href="#关机" class="headerlink" title="关机"></a>关机</h3><p><code>halt</code></p>]]></content>
+      
+      
       
     </entry>
     
