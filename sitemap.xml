@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://szturin.github.io/posts/8948/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/32291/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/15339/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/36172/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/6621/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/32229/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/31909/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/17620/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/50684/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://szturin.github.io/posts/18830/</loc>
     
     <lastmod>2024-02-23</lastmod>
@@ -39,15 +120,6 @@
   
   <url>
     <loc>https://szturin.github.io/posts/13150/</loc>
-    
-    <lastmod>2024-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://szturin.github.io/posts/6621/</loc>
     
     <lastmod>2024-02-23</lastmod>
     
@@ -173,6 +245,13 @@
 
   
   <url>
+    <loc>https://szturin.github.io/tags/C%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://szturin.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,13 +266,6 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/tags/C%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://szturin.github.io/tags/%E5%A4%A7%E5%94%90%E6%9D%AF/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -202,6 +274,41 @@
   
   <url>
     <loc>https://szturin.github.io/tags/5G/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/tags/%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/tags/UART%E9%80%9A%E4%BF%A1/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA%E5%AE%9A%E6%97%B6%E5%99%A8/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/tags/%E7%BA%A2%E5%A4%96%E9%80%9A%E4%BF%A1/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/tags/Git/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -245,7 +352,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/C%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -259,7 +366,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/C%E8%AF%AD%E8%A8%80/</loc>
+    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,6 +380,13 @@
   </url>
   
   <url>
+    <loc>https://szturin.github.io/categories/C-C/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://szturin.github.io/categories/51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -280,7 +394,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/C-C/</loc>
+    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Git/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
