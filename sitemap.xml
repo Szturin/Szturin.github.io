@@ -20,16 +20,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/posts/53068/</loc>
-    
-    <lastmod>2024-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://szturin.github.io/posts/13150/</loc>
+    <loc>https://szturin.github.io/posts/64680/</loc>
     
     <lastmod>2024-02-23</lastmod>
     
@@ -47,9 +38,18 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/posts/64680/</loc>
+    <loc>https://szturin.github.io/posts/53068/</loc>
     
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/posts/13150/</loc>
+    
+    <lastmod>2024-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -238,14 +238,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8C%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8C%E5%A4%A7%E5%94%90%E6%9D%AF/</loc>
+    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%A4%A7%E5%94%90%E6%9D%AF/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -259,14 +252,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2024-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://szturin.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -280,6 +266,27 @@
   </url>
   
   <url>
+    <loc>https://szturin.github.io/categories/51%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/HEXO%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://szturin.github.io/categories/FPGA/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -287,7 +294,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8C%E6%95%B0%E7%94%B5/</loc>
+    <loc>https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%95%B0%E7%94%B5/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
