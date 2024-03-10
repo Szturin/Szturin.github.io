@@ -40,9 +40,9 @@ https://szturin.github.io/contact/index.html
 https://szturin.github.io/
 https://szturin.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA/
 https://szturin.github.io/tags/51%E5%8D%95%E7%89%87%E6%9C%BA/
+https://szturin.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA%E5%AE%9A%E6%97%B6%E5%99%A8/
 https://szturin.github.io/tags/%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1/
 https://szturin.github.io/tags/UART%E9%80%9A%E4%BF%A1/
-https://szturin.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA%E5%AE%9A%E6%97%B6%E5%99%A8/
 https://szturin.github.io/tags/%E7%BA%A2%E5%A4%96%E9%80%9A%E4%BF%A1/
 https://szturin.github.io/tags/%E5%A4%A7%E5%94%90%E6%9D%AF/
 https://szturin.github.io/tags/5G/
