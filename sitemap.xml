@@ -475,6 +475,13 @@
   </url>
   
   <url>
+    <loc>https://szturin.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA%E5%AE%9A%E6%97%B6%E5%99%A8/</loc>
+    <lastmod>2024-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://szturin.github.io/tags/%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1/</loc>
     <lastmod>2024-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -483,13 +490,6 @@
   
   <url>
     <loc>https://szturin.github.io/tags/UART%E9%80%9A%E4%BF%A1/</loc>
-    <lastmod>2024-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://szturin.github.io/tags/%E5%8D%95%E7%89%87%E6%9C%BA%E5%AE%9A%E6%97%B6%E5%99%A8/</loc>
     <lastmod>2024-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -813,13 +813,6 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2024-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://szturin.github.io/categories/RDK-X3/</loc>
     <lastmod>2024-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -827,7 +820,7 @@
   </url>
   
   <url>
-    <loc>https://szturin.github.io/categories/PIC%E5%8D%95%E7%89%87%E6%9C%BA/%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://szturin.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2024-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -835,6 +828,13 @@
   
   <url>
     <loc>https://szturin.github.io/categories/FPGA/</loc>
+    <lastmod>2024-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://szturin.github.io/categories/PIC%E5%8D%95%E7%89%87%E6%9C%BA/%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
