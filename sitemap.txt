@@ -99,10 +99,10 @@ https://szturin.github.io/categories/PIC%E5%8D%95%E7%89%87%E6%9C%BA/
 https://szturin.github.io/categories/%E9%A1%B9%E7%9B%AE/
 https://szturin.github.io/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/
 https://szturin.github.io/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/
-https://szturin.github.io/categories/RDK-X3/
 https://szturin.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
-https://szturin.github.io/categories/FPGA/
+https://szturin.github.io/categories/RDK-X3/
 https://szturin.github.io/categories/PIC%E5%8D%95%E7%89%87%E6%9C%BA/%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0/
+https://szturin.github.io/categories/FPGA/
 https://szturin.github.io/categories/Matlab/
 https://szturin.github.io/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/%E5%8D%95%E7%89%87%E6%9C%BA/
 https://szturin.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/ROS2/
