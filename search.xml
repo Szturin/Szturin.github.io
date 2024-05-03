@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>【HEXO】[2] 多线程部署常见问题</title>
+      <link href="/posts/45608/"/>
+      <url>/posts/45608/</url>
+      
+        <content type="html"><![CDATA[<h1 id="vim只读"><a class="markdownIt-Anchor" href="#vim只读"></a> Vim只读</h1><blockquote><p>报错信息 “E45: ‘readonly’ option is set (add ! to override)” 是在使用 Vim 或 Neovim 文本编辑器时可能遇到的一个错误信息。当您尝试将更改写入以只读模式打开的文件时，就会出现这条信息。这种情况可能由几个原因引起，例如，您正在编辑的文件在文件系统级别启用了写保护，或者 Vim 打开了一个它认为不应该修改的文件（例如，系统配置文件或标记为“只读”的文件）。</p><p>要解决这个问题并强制 Vim 或 Neovim 尽管文件处于只读状态也要写入更改，您可以使用 <code>:w!</code> 命令，其中 <code>w</code> 代表“写入”，<code>!</code> 实际上意味着“强制”或“覆盖”。</p><p>下面是如何处理这种情况：</p><h3 id="如果您打算修改文件"><a class="markdownIt-Anchor" href="#如果您打算修改文件"></a> 如果您打算修改文件</h3><ol><li><p><strong>强制保存更改</strong>：如果您知道文件是安全可编辑的，且打算保存更改，可以使用 <code>:w!</code> 命令强制保存更改。这告诉 Vim 覆盖只读限制。</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">:w!</span><br></pre></td></tr></tbody></table></figure></li><li><p><strong>更改文件权限</strong>：如果文件是只读的是因为文件系统权限，您可能需要在 Vim 外部更改其权限。例如，在类 Unix 系统（Linux、macOS）上，您可以使用 <code>chmod</code> 命令使文件可写。假设文件名为 <code>example.txt</code>；您可以使用：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chmod +w example.txt</span><br></pre></td></tr></tbody></table></figure><p>然后，在 Vim 内尝试再次保存文件。</p></li></ol><h3 id="如果文件应保持不变"><a class="markdownIt-Anchor" href="#如果文件应保持不变"></a> 如果文件应保持不变</h3><p>如果文件应该是只读的，且您不小心做了更改或重新考虑了您的编辑，有几个操作您可以执行：</p><ol><li><p><strong>撤销更改</strong>：通过使用 Vim 中的撤销命令 <code>u</code> 手动撤销更改，直到您恢复到文件的原始状态。</p></li><li><p><strong>不保存并退出</strong>：如果您想退出 Vim 而不保存任何更改，可以使用 <code>:q!</code> 命令，它退出 Vim 且不保存。</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">:q!</span><br></pre></td></tr></tbody></table></figure></li></ol><h3 id="理解只读文件"><a class="markdownIt-Anchor" href="#理解只读文件"></a> 理解只读文件</h3><p>在决定覆盖其只读状态之前，了解文件为什么可能处于只读模式是很重要的。文件可以因各种原因而被设置为只读：</p><ul><li>文件可能在文件系统级别被标记为只读，以防止意外更改。</li><li>文件可能属于另一个用户或需要管理员权限才能修改。</li><li>Vim 可能会在检测到文件正在被另一个进程使用时，以只读模式打开文件。</li><li>某些配置或命令（如使用 <code>vim -R &lt;filename&gt;</code> 打开文件）可以指示 Vim 以只读模式打开文件。</li></ul><p>在尝试覆盖文件的只读状态之前，始终确保修改文件是恰当的。</p></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【ROS2】“人在回路”---与生成式人工智能交互的视觉医疗机器人</title>
       <link href="/posts/17498/"/>
       <url>/posts/17498/</url>
@@ -873,9 +886,9 @@
           
           <category> 学习笔记 </category>
           
-          <category> Git </category>
-          
           <category> C/C++ </category>
+          
+          <category> Git </category>
           
       </categories>
       
