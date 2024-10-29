@@ -6,7 +6,7 @@
   <link href="https://szturin.github.io/atom.xml" rel="self"/>
   
   <link href="https://szturin.github.io/"/>
-  <updated>2024-10-18T13:47:09.987Z</updated>
+  <updated>2024-10-21T14:27:40.365Z</updated>
   <id>https://szturin.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://szturin.github.io/posts/0/"/>
+    <id>https://szturin.github.io/posts/0/</id>
+    <published>2024-10-21T14:27:40.365Z</published>
+    <updated>2024-10-21T14:27:40.365Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://images.gitee.com/uploads/images/2019/0924/114256_eaf16bad_1699060.png" alt="逐飞LOGO" title="逐飞科技logo 中.png"></p><h1 id="逐飞科技stc8h8k64开源库"><a class="markdownIt-Anchor" href="#逐飞科技stc8h8k64开源库"></a> 逐飞科技STC8H8K64开源库</h1><h4 id="简介"><a class="markdownIt-Anchor" href="#简介"></a> 简介</h4><p>逐飞科技针对参加各类竞赛以及使用STC8H8K64进行产品开发，制作的STC8H8K64开源库。</p><h4 id="环境准备"><a class="markdownIt-Anchor" href="#环境准备"></a> 环境准备</h4><ol><li><strong>STC8H8K64硬件环境：</strong></li></ol><ul><li>推荐使用本公司STC8H8K64核心板，<a href="https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-22508770840.19.12dc49ccDFOaob&amp;id=618018828966">点击此处购买</a>。</li></ul><ol start="2"><li><strong>软件开发环境：</strong><br>（MDK FOR C51）</li></ol><ul><li>MDK 推荐使用版本：V9.6。</li></ul><ol start="3"><li><strong>下载器：</strong><br>（核心板自带）</li></ol><ul><li>核心板自带有CH340E芯片，只需要插上TYPE-C数据线即可实现下载功能。</li><li>USB转TTL：推荐使用本公司USB转TTL，<a href="https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-22508770840.9.12dc49ccL93dhG&amp;id=524829874577">点击此处购买</a>。</li></ul><ol start="3"><li><strong>内部晶振频率：</strong></li></ol><ul><li>board.h文件中FOSC的值设置为0，则程序自动设置系统频率。</li><li>board.h文件中FOSC的值设置不为0，则系统频率为FOSC的值。在使用stc-isp工具下载程序的时候需要将IRC频率设置为FOSC的值。</li></ul><h4 id="使用说明"><a class="markdownIt-Anchor" href="#使用说明"></a> 使用说明</h4><ol><li><strong>下载开源库：</strong> 点击页面右侧的克隆/下载按钮，将工程文件保存到本地。您可以使用git克隆（Clone）或下载ZIP压缩包的方式来下载。推荐使用git将工程目录克隆到本地，这样可以使用git随时与我们的开源库保持同步。关于码云与git的使用教程可以参考以下链接 <a href="https://gitee.com/help">https://gitee.com/help</a>。</li><li><strong>打开工程：</strong> 将下载好的工程文件夹打开（若下载的为ZIP文件，请先解压压缩包）。在打开工程前，请务必确保您的IDE满足环境准备章节的要求。</li></ol><h4 id="逐飞科技stc8h8k64核心板"><a class="markdownIt-Anchor" href="#逐飞科技stc8h8k64核心板"></a> 逐飞科技STC8H8K64核心板</h4><p><img src="https://images.gitee.com/uploads/images/2020/0601/161506_e9a42fea_848799.jpeg" alt="逐飞科技STC8H8K64核心板" title="逐飞科技STC8H8K64核心板.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://images.gitee.com/uploads/images/2019/0924/114256_eaf16bad_1699060.png&quot; alt=&quot;逐飞LOGO&quot; title=&quot;逐飞科技logo 中.png&quot;&gt;&lt;/p&gt;
+&lt;h1 id=</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>【Tensorflow】[3] 张量</title>
     <link href="https://szturin.github.io/posts/39014/"/>
     <id>https://szturin.github.io/posts/39014/</id>
     <published>2024-10-18T13:47:09.000Z</published>
-    <updated>2024-10-18T13:47:09.987Z</updated>
+    <updated>2024-10-19T15:25:44.839Z</updated>
     
     
     
@@ -413,35 +434,6 @@
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;发布一个版本时，我们通常先在版本库中打一个标签（tag），这样，就唯一确定了打标签时刻的版本。&lt;/p&gt;
 &lt;p&gt;Git的标签虽然是版本库的快照，但</summary>
-      
-    
-    
-    
-    <category term="学习笔记" scheme="https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Git" scheme="https://szturin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Git/"/>
-    
-    <category term="分布式系统" scheme="https://szturin.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
-    
-    <category term="github" scheme="https://szturin.github.io/categories/github/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>【Git学习】[2]分支管理</title>
-    <link href="https://szturin.github.io/posts/21302/"/>
-    <id>https://szturin.github.io/posts/21302/</id>
-    <published>2024-09-03T10:38:38.000Z</published>
-    <updated>2024-09-16T05:49:33.143Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://liaoxuefeng.com/books/git/branch/create/index.html">创建与合并分支 - Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)</a></p><h1 id="一-分支的创建"><a class="markdownIt-Anchor" href="#一-分支的创建"></a> 一、分支的创建</h1><h2 id="1-分支创建"><a class="markdownIt-Anchor" href="#1-分支创建"></a> 1. 分支创建</h2><p>我们创建<code>dev</code>分支，然后切换到<code>dev</code>分支：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git checkout -b dev</span><br><span class="line">Switched to a new branch 'dev'</span><br></pre></td></tr></tbody></table></figure><p><code>git checkout</code>命令加上<code>-b</code>参数表示创建并切换，相当于以下两条命令：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ git branch dev</span><br><span class="line">$ git checkout dev</span><br><span class="line">Switched to branch 'dev'</span><br></pre></td></tr></tbody></table></figure><p>然后提交：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ git add readme.txt </span><br><span class="line">$ git commit -m "branch test"</span><br><span class="line">[dev b17d20e] branch test</span><br><span class="line"> 1 file changed, 1 insertion(+)</span><br></pre></td></tr></tbody></table></figure><p><mark>dev 分支的任务完成，就可以切换分支了</mark></p><h2 id="二-分支的管理"><a class="markdownIt-Anchor" href="#二-分支的管理"></a> 二、分支的管理</h2><h2 id="1-查看分支"><a class="markdownIt-Anchor" href="#1-查看分支"></a> 1. 查看分支</h2><img src="/posts/21302/image-20240916131915181.png" class="" title="image-20240916131915181"><h2 id="2-切换分支"><a class="markdownIt-Anchor" href="#2-切换分支"></a> 2. 切换分支</h2><img src="/posts/21302/image-20240916132045724.png" class="" title="image-20240916132045724"><h2 id="3-合并分支"><a class="markdownIt-Anchor" href="#3-合并分支"></a> 3. 合并分支</h2><p>完成之后，master分支上的修改在main上也能看到了</p><img src="/posts/21302/image-20240916132125567.png" class="" title="image-20240916132125567"><h2 id="4-删除分支"><a class="markdownIt-Anchor" href="#4-删除分支"></a> 4. 删除分支</h2><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git branch -d dev</span><br></pre></td></tr></tbody></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://liaoxuefeng.com/books/git/branch/create/index.html&quot;&gt;创建与合并分支 - Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;一-分支的创建</summary>
       
     
     
